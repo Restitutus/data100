@@ -2,4 +2,7 @@
 Roger Stanley
 January 27
 
-[
+  Blumenstock asserts that data science can be used to improve the equity of resources. Through development of patterns between seemingly-unrelated data sets, insights into human behavior can be found. He brings up such examples as using mobile phone usage as a metric for someone's ability to pay back debts, because phone usage seemingly correlates with good credit. With this data set, credit can be extended to demographics that previously had no access.
+  Additionally, satellite mapping data can be analyzed to find areas in need. Houses with thatched rooves, for example, were understood to be an indicator of poverty. With this in mind, humanitarian aid was extended more readily towards those living in thatched houses.
+    Unfortunately, data analysis is only as good as the dimensions of analysis. In the former example of thatched rooves, individuals began pretending to live in thatched structures next to their normal houses, so that they would receive aid. Additionally, data sets which only analyze certain subsets of people, such as using Waze to track urban movement, can result in policy actions that ignore large portions of the population. A final concern is in enabling authoritarian regimes, such as the case with China and their social credit system.
+    As a whole, Blumenstock asserts that these huge data sets can be used to more efficiently help huge swathes of people. Unfortunately, the certainty that they generate is often in excess of their actual accuracy, and these tools can just as easily be used for evil ends. We are on the precipice of a data-driven era, and a great deal of oversight will be necessary to ensure that it does more harm than good.
