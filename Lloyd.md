@@ -1,0 +1,3 @@
+#response to Lloyd February 10th Roger Stanley
+
+In this article, Lloyd et al. seek to create global population maps via a number of correlated data sets. Using metrics such as precipitation, nighttime light, bodies of water, density of roads, travel time to cities, and urban/rural designations, demographers can generate valuable information about populations. Lloyd seeks to not only bring all of this data to demographers, but also ensure that there is no accuracy lost in the individual components of this data set aggregate. Additionally, these datasets had to be refitted for one-another, and then their area converted to arc-seconds (which represents 1/3600 of a degree) so that it could be fitted to the 3-dimensional surface of the Earth. 
