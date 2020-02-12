@@ -6,4 +6,4 @@ Roger Stanley
 1. Line Plot
 2. The Path of a Salesman - Plot
 ## Project 1
-1. 
+1. [Project 1](https://github.com/Restitutus/data100/blob/master/project1.md)
