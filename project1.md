@@ -1,6 +1,6 @@
 # Project 1: Vietnam
 
-Roger stanley
+Roger Stanley
 
 ## Administrative Subdivisions of Vietnam
 
