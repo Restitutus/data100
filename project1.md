@@ -4,7 +4,7 @@ Roger Stanley
 
 ## Administrative Subdivisions of Vietnam
 
-Vietnam has 63 provinces and an overall population of 97 million. Due to computational restraints I will only be analyzing Hồ Chí Minh in detail.
+Vietnam has 63 provinces and an overall population of 97 million. Due to computational restraints I will only be analyzing Hồ Chí Minh, the capital, in detail.
 
 ## Map of Vietnam's Provinces
 
