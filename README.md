@@ -5,6 +5,7 @@ Roger Stanley
 2. [Lloyd response](https://github.com/Restitutus/data100/blob/master/Lloyd.md) 
 3. [Wardrop response](https://github.com/Restitutus/data100/blob/master/Wardrop.md)
 4. [Random Forest response](https://github.com/Restitutus/data100/blob/master/Forrest.md)
+5. [Nieves et al](https://github.com/Restitutus/data100/blob/master/Nieves.md)
 ## Workshop
 1. Line Plot
 2. The Path of a Salesman - Plot
